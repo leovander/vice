@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "leovander",
+    "longName": "Vice",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Broadway.ttf",
+                "name": "FONT_BROADWAY_30",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Broadway.ttf",
+                "name": "FONT_BROADWAY_40",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Vice",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "4770d458-5f22-4e24-92f9-ae1e24bd72a0",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
